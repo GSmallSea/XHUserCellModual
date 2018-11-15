@@ -1,2 +1,3 @@
 # XHUserCellModual
-XHUserCellModual
+pod "XHUserCellModual"
+
